@@ -1,0 +1,8 @@
+telethon
+SpeechRecognition
+groq
+pytube3
+pytube
+pydub
+youtube_transcript_api
+redis
